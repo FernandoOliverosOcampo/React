@@ -1,0 +1,15 @@
+.card{
+    background-color: aqua;
+    color: white;
+    padding: 10px;
+}
+.on{
+    background-color: blue;
+}
+.off{
+    background-color: greenyellow;
+}
+.imagen{
+    height: 10vh;
+    width: auto;
+}
